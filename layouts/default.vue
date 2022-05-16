@@ -1,12 +1,8 @@
 <template>
   <v-app dark>
-   
-    <v-main style="background-color:#acadaf">
-      
-        <Nuxt />
-      
+    <v-main>
+      <Nuxt />
     </v-main>
-   
   </v-app>
 </template>
 
